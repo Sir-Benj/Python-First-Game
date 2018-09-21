@@ -1,0 +1,3 @@
+Healing Potion*Use to heal 50 hp*50
+Superior Healing Potion*Use to heal 100 hp*100
+Mega Healing Potion*Use to heal 150 hp*150

@@ -1,0 +1,6 @@
+Basic Cloth Armour*Your armour has lost it's magical potency, it doesn't do much now.*0
+Leather Armour*Reduces damage taken per attack by 3.*3
+Mail Armour*Reduces damage taken per attack by 6.*6
+Plate Armour*Reduces damage taken per attack by 9.*9
+Plate-Mail Armour*Reduces damage taken per attack by 12.*12
+Darklight Armour*This thick plate armour is so dark it seems to draw in the light around it. Reduces damage taken per attack by 20.*20

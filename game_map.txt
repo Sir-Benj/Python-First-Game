@@ -1,0 +1,17 @@
+room1 room2
+room2 room7 room3 room5
+room3 room2 room12 room4
+room4 room3
+room5 room2 room8 room6
+room6 room5 room9
+room7 room2 room12 room8 room16
+room8 room7 room9 room5 room10
+room9 room8 room6 room11
+room10 room8 room16 room11
+room11 room9 room10
+room12 room7 room3 room14 room13
+room13 room12
+room14 room12 room15 room16
+room15 room14 
+room16 room7 room14 room10 room17
+room17 room16

@@ -1,0 +1,5 @@
+Your Mighty Bare-Hands*Your bare-hands, while powerful, aren't as damaging as a weapon.*0
+Copper Short-Sword*Gives +6 to attack damage.*6
+Steel Long-Sword*Gives +12 to attack damage.*12
+Platinum Short-Sword*Gives +18 to attack damage.*18
+Muramasa*A blade so sharp its edge seems to fade to an unseen point. Gives +30 to attack damage.*30
